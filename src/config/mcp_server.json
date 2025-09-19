@@ -1,0 +1,39 @@
+{
+  "Shivam_MCP_Server": {
+    "command": "/Users/shivamverma/.local/bin/uv",
+    "args": [
+      "run",
+      "--with",
+      "mcp[cli]",
+      "mcp",
+      "run",
+      "/Users/shivamverma/Documents/python/PycharmProjects/LangGraph-MCP-Demo/src/server/mcp_server.py"
+    ],
+    "transport":"stdio"
+  },
+  "weather": {
+    "command": "/Users/shivamverma/.local/bin/uv",
+    "args": [
+      "run",
+      "--with",
+      "mcp[cli]",
+      "mcp",
+      "run",
+      "/Users/shivamverma/Documents/python/PycharmProjects/LangGraph-MCP-Demo/src/server/mcp_weather_server.py"
+    ],
+    "transport":"stdio"
+  },
+  "playwright": {
+          "command": "npx",
+          "args": ["@playwright/mcp@latest"],
+          "env": {
+            "DISPLAY": ":1"
+          },
+          "transport": "stdio"
+  },
+  "airbnb": {
+    "command": "npx",
+    "args": ["-y", "@openbnb/mcp-server-airbnb"],
+    "transport": "stdio"
+  }
+}
