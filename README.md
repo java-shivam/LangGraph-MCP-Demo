@@ -10,15 +10,11 @@ There are multiple MCP server ,we are going to connect with this LLM Agent
 
 This repo contains tutorials, code templates, and examples to help you build AI applications. Whether you're just learning or you have AI agents in production, I want to bring you as much value as possible. So please, open issues, leave me comments, and share your feedback.
 
-> Note: I'm rapidly iterating on this repo so things will be broken and incomplete at times.
-
-The AI Launchpad is a community for AI builders, entrepreneurs, and business leaders who want to learn, build, and solve real problems with AI. Get help, resources, connect with other builders, and accelerate your AI journey. 🚀
-
-Sign up for the waitlist and get access to the Discord server (live now!).
+> Note: I'm rapidly iterating on this repo so things will be broken and incomplete at times. 🚀
 
 ## About Me 👋🏼
 
-Hi! I'm shivam, a enthusiastic  AI developer.
+Hi! I'm shivam, a enthusiastic AI developer.
 
 ---
 
