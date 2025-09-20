@@ -18,7 +18,7 @@ Sign up for the waitlist and get access to the Discord server (live now!).
 
 ## About Me 👋🏼
 
-Hi! I'm shivam, a enthusiastic  AI developer, and founder of the AI Launchpad.
+Hi! I'm shivam, a enthusiastic  AI developer.
 
 ---
 
