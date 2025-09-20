@@ -18,7 +18,7 @@ Sign up for the waitlist and get access to the Discord server (live now!).
 
 ## About Me 👋🏼
 
-Hi! I'm shivam, a ethusiatic  AI developer, and founder of the AI Launchpad. I also have a [YouTube channel] where **I teach you how to build AI solutions that solve real problems**.
+Hi! I'm shivam, a enthusiastic  AI developer, and founder of the AI Launchpad.
 
 ---
 
