@@ -15,7 +15,7 @@ Sign up for the [**AI Launchpad**](https://kenneth-liao.kit.com/join) waitlist a
 
 ## About Me 👋🏼
 
-Hi! I'm Kenny, a Data Analytics Manager, AI Architect, and founder of the AI Launchpad. I also have a [YouTube channel](https://www.youtube.com/@KennethLiao) where **I teach you how to build AI solutions that solve real problems**.
+Hi! I'm shivam, a ethusiatic  AI developer, and founder of the AI Launchpad. I also have a [YouTube channel](https://www.youtube.com/@KennethLiao) where **I teach you how to build AI solutions that solve real problems**.
 
 ---
 
@@ -48,8 +48,8 @@ Hi! I'm Kenny, a Data Analytics Manager, AI Architect, and founder of the AI Lau
 2. **Clone the Repository and Navigate to the Project Directory**
 
     ```bash
-    git clone https://github.com/kenneth-liao/ai-launchpad.git
-    cd ai-launchpad
+     git clone https://github.com/java-shivam/LangGraph-MCP-Demo.git    
+    
     ```
 
 3. **Create a Virtual Environment and Install Dependencies**
