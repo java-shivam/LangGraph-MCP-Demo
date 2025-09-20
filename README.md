@@ -1,7 +1,7 @@
 Langgraph with MCP server
 There are multiple MCP server ,we are going to connect with this LLM Agent
 
-# The AI Launchpad
+# The A2A Launchpad
 
 ![SHIVAM MCP DEMO ](ai_launchpad/static/ai-launchpad-logo-wide.png)
 
