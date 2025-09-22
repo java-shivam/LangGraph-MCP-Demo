@@ -1,7 +1,7 @@
 Access Langgraph Agent Having MCP server over A2A protocol .
 There are multiple MCP server
 
-<img width="1843" height="1076" alt="image" src="https://github.com/user-attachments/assets/39f9d4d6-1358-4d9d-9560-3060d0d4257a" />
+<img width="1976" height="1022" alt="image" src="https://github.com/user-attachments/assets/0c82ff64-003a-4499-9ffb-312294b2476b" />
 
 
 # The A2A Launchpad
